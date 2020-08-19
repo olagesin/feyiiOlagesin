@@ -5,6 +5,6 @@
   Few things to know about me:
 - 🌱 I’m currently learning Machine Learning for Digital Signal Processing
 - 👯 I’m looking to collaborate on Open Source Python projects
-- 💬 Ask me about: Python!
+- 💬 Ask me about: Python, C#!!
 - 📫 How to reach me: [Twitter](https://twitter.com/The_Olagesin)
 - ⚡ Fun fact: I'm a big fan of Rock music!!!
