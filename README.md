@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Olagesin Samuel Feyintoluwa
 
-  I am a Data Scientist and technical writer based in Nigeria. I write and build Machine Learning models and i'm currently learning how to integrate these models into web apps in .NET. I'm an adventurer in programming and I like to try out different things with respect to code.
+  I am a .NET Developer and technical writer based in Nigeria. I write and build web applications using .NET tools. I'm an adventurer in programming and I like to try out different things with respect to code.
 
   Few things to know about me:
 - 🌱 I’m currently learning Web Development using .NET. 
