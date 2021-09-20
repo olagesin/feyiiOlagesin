@@ -5,6 +5,6 @@
   Few things to know about me:
 - 🌱 I’m currently learning Web Development using .NET. 
 - 👯 I’m looking to collaborate on Open Source Python projects
-- 💬 Ask me about: Python, C#!!
+- 💬 Ask me about: C#!!
 - 📫 How to reach me: [Twitter](https://twitter.com/Olagesin_)
 - ⚡ Fun fact: I'm a big fan of Rock music!!!
